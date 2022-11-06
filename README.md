@@ -9,3 +9,4 @@ Handwriting recognition is one of the compelling research works going on because
 
 # Technical Architecture:
 
+<img width="464" alt="image" src="https://user-images.githubusercontent.com/113275883/200172124-c48a7408-c230-4581-b665-3ab7dfbf2dc6.png">
