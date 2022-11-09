@@ -2,7 +2,7 @@
 A Novel Method for Handwritten Digit Recognition System
 
 # Team Members : 
-Karthickkumar M   - 412419205037
+Karthickkumar M   - 412419205037 <br>
 Praveenkumar S    - 412419205067
 Sakthivel A       - 412419205078
 Siva Ponmurugan K - 412419205084
