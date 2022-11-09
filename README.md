@@ -1,6 +1,12 @@
 # IBM-Project-5563-1658807834
 A Novel Method for Handwritten Digit Recognition System
 
+# Team Members : 
+Karthickkumar M   - 412419205037
+Praveenkumar S    - 412419205067
+Sakthivel A       - 412419205078
+Siva Ponmurugan K - 412419205084
+
 # Category
 Artificial Intelligence
 # Project Description:
